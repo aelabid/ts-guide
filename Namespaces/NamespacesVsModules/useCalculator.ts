@@ -1,3 +1,6 @@
+
+// / <reference path="calculator.ts" />
+
 import { Calculator } from "./calculator";
 
 const calc = new Calculator.BasicCalculator();
